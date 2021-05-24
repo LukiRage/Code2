@@ -5,4 +5,4 @@ cd (lokalizacja rozpakowanego pliku)
 ./configure
 sudo make
 sudo make install
-Code2 (bok a, bok b, wysokość) - w uruchomienia
+Code2 (bok a, bok b, wysokość) - w celu uruchomienia
