@@ -1,5 +1,5 @@
 # Code2
-wget https://github.com/LukiRage/Code2/blob/main/code2-2.0.tar.gz
+git clone https://github.com/LukiRage/Code2
 tar -zxvf code2-2.0.tar.gz -C (lokalizacja gdzie ma zostać rozpakowany plik)
 cd (lokalizacja rozpakowanego pliku)
 ./configure
